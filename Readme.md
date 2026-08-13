@@ -241,19 +241,4 @@ POST /wishlist/delete.php
 
 ---
 
-## Migrasi ke Laravel
-
-Lihat diskusi di bawah untuk fitur tambahan jika migrasi ke Laravel diperlukan:
-
-- Sanctum API Token Auth
-- Eloquent ORM + Relationship
-- Form Request Validation
-- Queue: email/SMS reminder
-- Admin panel via Filament
-- Swagger/OpenAPI docs
-
----
-
-## Lisensi
-
-MIT
+## 
